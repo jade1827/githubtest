@@ -6,5 +6,7 @@ int main(int argc, const char *argv[])
 	printf("hello git\n");
 	//edit on web
 	printf("master edit on web\n");
+	//test usernema pwd
+	//
 	return 0;
 }
